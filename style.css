@@ -395,6 +395,18 @@ h1, h2, h3, h4, h5, h6 {
   background-size: cover;
   position: relative;
 }
+.hero-image5 .hero-text{
+  font-size: 38px;
+  line-height: 24px;
+  letter-spacing: 0;
+  font-weight: 300;
+  text-align: left;
+  position: absolute;
+  top: 82%;
+  left: 36%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
 .hero-image4 {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/14.jfif");
   height: 100vh;
@@ -605,6 +617,18 @@ ul.social-network li {
   }
 }
 @media (max-width: 992px) {
+  .hero-image5 .hero-text{
+  font-size: 38px;
+  line-height: 24px;
+  letter-spacing: 0;
+  font-weight: 300;
+  text-align: left;
+  position: absolute;
+  top: 50%;
+  left: 36%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
   .hero-image1 .hero-text {
     font-size: 38px;
     line-height: 24px;

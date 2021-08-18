@@ -834,3 +834,57 @@ ul.social-network li {
     65%  { transform: translate(0, 15px); }
     to   { transform: translate(0, -0px); }
 }
+.style-class-h3{
+  margin-top:8%;
+}
+@media (max-width: 1024px){
+  .style-class-h3{
+    margin-top:15%;
+  }
+}
+@media (max-width: 992px){
+  .style-class-h3{
+    margin-top:15%;
+  }
+}
+@media (max-width: 800px){
+  .style-class-h3{
+    margin-top:15%;
+  }
+}
+@media (max-width: 768px){
+  .style-class-h3{
+    margin-top:15%;
+  }
+}
+@media (max-width: 601px){
+  .style-class-h3{
+    margin-top:20%;
+  }
+}
+@media (max-width: 480px){
+  .style-class-h3{
+    margin-top:25%;
+  }
+}
+@media (max-width: 384px){
+  .style-class-h3{
+    margin-top:30%;
+  }
+}
+@media (max-width: 360px){
+  .style-class-h3{
+    margin-top:30%;
+  }
+}
+@media (max-width: 320px){
+  .style-class-h3{
+    margin-top:35%;
+  }
+}
+@media (max-width: 280px){
+  .style-class-h3{
+    margin-top:40%;
+  }
+}
+
